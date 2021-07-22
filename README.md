@@ -1,2 +1,2 @@
 # spottedweb
-Website.
+Website source code.
